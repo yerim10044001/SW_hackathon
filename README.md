@@ -48,7 +48,7 @@ CCA( coexistence with companion animal) 웹사이트의 카테고리는 총 4개
 
 
 #### 5. 프로젝트에 활용된 기술(3가지 이내)
-파이썬 오픈소스 라이브러리(streamlit)
+>파이썬 오픈소스 라이브러리([streamlit](https://streamlit.io/))
 
 streamlit이란 머신러닝이나 데이터 사이언스에 특화된 웹 어플리케이션을 쉽게 만들고 공유하도록 해주는 파이썬 오픈소스 라이브러리입니다.
 
