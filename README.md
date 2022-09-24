@@ -22,6 +22,8 @@
 
 + 프로젝트 내용
 
+<img width="802" alt="KakaoTalk_Snapshot_20220924_223104" src="https://user-images.githubusercontent.com/86493874/192100814-6398c222-471f-4268-acf7-54f9c5609f5b.png">
+
 반려동물을 양육할 때 필요한 정보들은 인터넷에서 검색을 통해 충분히 많은 자료를 수집할 수 있습니다. 그럼에도 불구하고 정보를 찾지않아 많이 발생하는 반려동물 파양, 유기, 학대등의 문제를 해결하기 위해서, CCA(coexistence with companion animal)에서는 반려동물 양육과 관련된 퀴즈를 통해서 흥미를 유발하면서 정보를 전달하고자 하였습니다.
 
 CCA( coexistence with companion animal) 웹사이트의 카테고리는 총 4개의 페이지로 구성되어있습니다.
