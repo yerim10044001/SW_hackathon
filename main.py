@@ -42,7 +42,10 @@ def main():
     Through this quiz, you can evaluate how well you’ve done.
     Furthermore, you can get a baseline for raising your companion animal.
         ''')
-
+    
+    st.title("당신의 집사 레벨은?")
+    st.subheader("퀴즈를 통해 알아보세요!")
+        
     # 이미지
     base_image = Image.open('static/cat01.jpg')
     st.image(base_image, width= 600)
