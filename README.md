@@ -7,7 +7,7 @@
 무지한 상태로 반려동물 양육 시 발생할 수 있는 문제를 퀴즈를 통해 예방 및 해결
 #### 4. 프로젝트에 대한 설명(주제, 목적, 용도, 영향 등)
 > [CCA, coexistence with companion animal](https://yerim10044001-sw-hackathon-main-slyhka.streamlitapp.com/)
-
+> CCA Website는 위 링크를 통해 들어갈 수 있습니다.
 
 #### 🔎 문제 현황
 
