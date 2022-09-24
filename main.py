@@ -58,7 +58,7 @@ def main():
 if __name__ == "__main__":
     # Using "with" notation
     with st.sidebar:
-        st.write("CCA Kategorie")
+        st.write("CCA category")
         Kategorie = st.radio(
             "--------------- (o^－^o) --------------",
             ("MAIN","INTRO", "QUIZ", "MORE INFORMATION")
